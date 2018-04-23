@@ -24,4 +24,34 @@
       		<description>cCloud, SportsDevil, Icefilms, 1Channel, Exodus</description>
 	</repository>
 
+	<repository>
+	      <name>Stream Army</name>
+      		<username>nemesis668</username>
+      		<description>Nemesis, Entertainment Time</description>
+	</repository>
+
+	<repository>
+	      <name>Rockcrusher</name>
+      		<username>rockcrusher01</username>
+      		<description>Vortex, Caught on Cam, Grit, Brain Drain, FightTube</description>
+	</repository>
+
+	<repository>
+	      <name>Maverick</name>
+      		<username>duncanh52</username>
+      		<description>Copy and Paste, At the Flix, Skynet, Maverick TV</description>
+	</repository>
+
+	<repository>
+	      <name>Goliath</name>
+      		<username>Goliath-Evolve</username>
+      		<description>Picasso, Cartoons8</description>
+	</repository>
+
+	<repository>
+	      <name>UK Turks</name>
+      		<username>tdelight</username>
+      		<description>UK Turks Playlist</description>
+	</repository>
+
 </repositories>
