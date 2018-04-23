@@ -1,0 +1,27 @@
+<repositories>
+
+	<repository>
+      <name>Incursion</name>
+      <username>nixgates</username>
+      <description>Incursion, Watch Nixtoons</description>
+	</repository>
+   
+	<repository>
+      <name>Blamo</name>
+      <username>mrblamo420</username>
+      <description>Death Streams, Neptune Rising, Placenta, Aragon Live, Wraith, Chappa'ai</description>
+	</repository>
+
+	<repository>
+	      <name>FrenchDJ</name>
+      		<username>frenchdj</username>
+      		<description>Documented.HD, Alive.HD</description>
+	</repository>
+
+	<repository>
+	      <name>Kodi Bae</name>
+      		<username>kodibae</username>
+      		<description>cCloud, SportsDevil, Icefilms, 1Channel, Exodus</description>
+	</repository>
+
+</repositories>
